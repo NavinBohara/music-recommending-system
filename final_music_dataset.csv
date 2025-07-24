@@ -1,0 +1,601 @@
+track,artist,language,danceability,energy,valence,tempo,acousticness,instrumentalness,speechiness,liveness,duration_ms
+Kesariya,Arijit Singh,Hindi,0.861,0.655,0.377,147.0,0.196,0.284,0.097,0.388,181274
+Tum Hi Ho,Arijit Singh,Hindi,0.542,0.691,0.502,112.5,0.629,0.202,0.162,0.098,253326
+Channa Mereya,Arijit Singh,Hindi,0.675,0.692,0.271,103.11,0.89,0.006,0.145,0.092,249531
+Tera Ban Jaunga,Akhil Sachdeva,Hindi,0.871,0.645,0.351,131.83,0.763,0.394,0.117,0.243,245924
+Shayad,Arijit Singh,Hindi,0.897,0.77,0.946,91.19,0.244,0.212,0.142,0.414,203632
+Raataan Lambiyan,Jubin Nautiyal,Hindi,0.747,0.657,0.812,135.34,0.306,0.059,0.101,0.107,227542
+Agar Tum Saath Ho,Alka Yagnik,Hindi,0.436,0.566,0.761,112.35,0.361,0.254,0.17,0.078,198887
+Kabira,Tochi Raina,Hindi,0.823,0.629,0.627,85.2,0.516,0.511,0.099,0.343,190011
+Mast Magan,Arijit Singh,Hindi,0.509,0.658,0.649,100.92,0.125,0.428,0.068,0.194,298010
+Sun Saathiya,Priya Saraiya,Hindi,0.708,0.483,0.921,134.56,0.556,0.44,0.119,0.364,291163
+Perfect,Ed Sheeran,English,0.568,0.784,0.39,116.0,0.869,0.299,0.184,0.052,181118
+Blinding Lights,The Weeknd,English,0.871,0.628,0.55,130.51,0.383,0.381,0.099,0.432,271559
+Levitating,Dua Lipa,English,0.624,0.69,0.844,106.75,0.331,0.08,0.093,0.21,241256
+Peaches,Justin Bieber,English,0.757,0.867,0.679,104.55,0.304,0.384,0.161,0.421,263357
+As It Was,Harry Styles,English,0.577,0.503,0.413,108.98,0.346,0.518,0.111,0.141,196935
+Dynamite,BTS,English,0.857,0.726,0.574,144.77,0.526,0.422,0.138,0.392,288208
+Stay,The Kid LAROI,English,0.432,0.931,0.722,143.09,0.628,0.516,0.123,0.233,249624
+Senorita,Shawn Mendes,English,0.67,0.617,0.535,99.75,0.557,0.004,0.17,0.28,235423
+Love Yourself,Justin Bieber,English,0.861,0.618,0.78,112.07,0.39,0.083,0.042,0.177,215268
+Shape of You,Ed Sheeran,English,0.69,0.452,0.436,109.11,0.445,0.065,0.194,0.352,209909
+Kesariya,Arijit Singh,Hindi,0.461,0.898,0.678,125.18,0.108,0.552,0.069,0.315,208798
+Tum Hi Ho,Arijit Singh,Hindi,0.805,0.607,0.704,95.9,0.301,0.079,0.109,0.142,217529
+Channa Mereya,Arijit Singh,Hindi,0.528,0.703,0.926,112.9,0.386,0.207,0.161,0.225,239677
+Tera Ban Jaunga,Akhil Sachdeva,Hindi,0.716,0.933,0.525,129.55,0.04,0.01,0.066,0.353,285772
+Shayad,Arijit Singh,Hindi,0.801,0.494,0.633,113.43,0.852,0.575,0.115,0.365,283999
+Raataan Lambiyan,Jubin Nautiyal,Hindi,0.538,0.742,0.866,110.14,0.442,0.273,0.03,0.219,274824
+Agar Tum Saath Ho,Alka Yagnik,Hindi,0.873,0.851,0.712,84.81,0.027,0.575,0.153,0.449,184629
+Kabira,Tochi Raina,Hindi,0.57,0.802,0.372,114.09,0.66,0.383,0.181,0.364,195167
+Mast Magan,Arijit Singh,Hindi,0.543,0.477,0.857,155.13,0.486,0.386,0.116,0.469,189779
+Sun Saathiya,Priya Saraiya,Hindi,0.459,0.53,0.203,131.73,0.884,0.567,0.132,0.306,242015
+Perfect,Ed Sheeran,English,0.893,0.594,0.308,106.84,0.127,0.174,0.128,0.459,268393
+Blinding Lights,The Weeknd,English,0.848,0.724,0.902,153.34,0.877,0.156,0.037,0.258,233667
+Levitating,Dua Lipa,English,0.875,0.645,0.295,150.03,0.191,0.335,0.181,0.346,299911
+Peaches,Justin Bieber,English,0.851,0.892,0.75,111.24,0.495,0.305,0.182,0.197,259637
+As It Was,Harry Styles,English,0.574,0.856,0.331,88.43,0.693,0.097,0.101,0.082,297902
+Dynamite,BTS,English,0.681,0.543,0.598,129.97,0.732,0.444,0.151,0.343,240794
+Stay,The Kid LAROI,English,0.443,0.564,0.512,104.51,0.074,0.238,0.146,0.473,275435
+Senorita,Shawn Mendes,English,0.703,0.761,0.402,154.34,0.881,0.326,0.064,0.415,277004
+Love Yourself,Justin Bieber,English,0.634,0.944,0.456,89.57,0.691,0.104,0.043,0.407,233074
+Shape of You,Ed Sheeran,English,0.885,0.614,0.264,159.5,0.223,0.032,0.082,0.347,196555
+Kesariya,Arijit Singh,Hindi,0.683,0.792,0.319,99.31,0.193,0.563,0.054,0.375,224124
+Tum Hi Ho,Arijit Singh,Hindi,0.481,0.776,0.237,125.49,0.691,0.381,0.182,0.496,275212
+Channa Mereya,Arijit Singh,Hindi,0.876,0.738,0.623,146.95,0.637,0.467,0.139,0.253,206154
+Tera Ban Jaunga,Akhil Sachdeva,Hindi,0.802,0.61,0.208,158.94,0.52,0.151,0.084,0.232,242642
+Shayad,Arijit Singh,Hindi,0.866,0.938,0.302,80.2,0.836,0.099,0.154,0.499,216709
+Raataan Lambiyan,Jubin Nautiyal,Hindi,0.875,0.648,0.653,88.52,0.146,0.3,0.121,0.478,230990
+Agar Tum Saath Ho,Alka Yagnik,Hindi,0.504,0.809,0.498,118.16,0.55,0.483,0.121,0.243,280633
+Kabira,Tochi Raina,Hindi,0.714,0.663,0.944,98.92,0.127,0.369,0.148,0.249,233369
+Mast Magan,Arijit Singh,Hindi,0.638,0.815,0.829,91.02,0.152,0.593,0.112,0.077,228476
+Sun Saathiya,Priya Saraiya,Hindi,0.441,0.94,0.871,154.61,0.19,0.338,0.126,0.313,262110
+Perfect,Ed Sheeran,English,0.712,0.881,0.256,154.93,0.832,0.454,0.164,0.344,247574
+Blinding Lights,The Weeknd,English,0.746,0.478,0.475,81.52,0.131,0.294,0.088,0.189,201752
+Levitating,Dua Lipa,English,0.665,0.412,0.264,109.17,0.486,0.202,0.187,0.459,252153
+Peaches,Justin Bieber,English,0.62,0.862,0.676,123.75,0.13,0.293,0.166,0.336,279912
+As It Was,Harry Styles,English,0.832,0.647,0.371,149.85,0.665,0.413,0.077,0.14,228497
+Dynamite,BTS,English,0.825,0.449,0.22,119.07,0.349,0.551,0.094,0.293,217942
+Stay,The Kid LAROI,English,0.541,0.673,0.228,106.09,0.551,0.034,0.118,0.068,180876
+Senorita,Shawn Mendes,English,0.749,0.943,0.467,85.58,0.4,0.323,0.109,0.174,286677
+Love Yourself,Justin Bieber,English,0.848,0.61,0.546,146.45,0.478,0.367,0.099,0.16,180186
+Shape of You,Ed Sheeran,English,0.486,0.8,0.305,104.67,0.607,0.11,0.102,0.218,207568
+Kesariya,Arijit Singh,Hindi,0.725,0.834,0.203,97.01,0.441,0.006,0.171,0.094,253951
+Tum Hi Ho,Arijit Singh,Hindi,0.597,0.659,0.914,112.06,0.351,0.264,0.172,0.445,297306
+Channa Mereya,Arijit Singh,Hindi,0.628,0.613,0.242,113.34,0.627,0.597,0.04,0.275,228073
+Tera Ban Jaunga,Akhil Sachdeva,Hindi,0.794,0.787,0.686,98.76,0.354,0.556,0.086,0.118,220028
+Shayad,Arijit Singh,Hindi,0.569,0.701,0.898,151.36,0.67,0.549,0.031,0.37,207489
+Raataan Lambiyan,Jubin Nautiyal,Hindi,0.619,0.513,0.41,100.62,0.639,0.222,0.183,0.389,224465
+Agar Tum Saath Ho,Alka Yagnik,Hindi,0.612,0.57,0.658,148.19,0.822,0.412,0.129,0.33,295187
+Kabira,Tochi Raina,Hindi,0.555,0.706,0.837,80.69,0.274,0.42,0.072,0.481,298329
+Mast Magan,Arijit Singh,Hindi,0.482,0.495,0.947,125.06,0.75,0.541,0.156,0.377,220492
+Sun Saathiya,Priya Saraiya,Hindi,0.719,0.832,0.536,113.93,0.394,0.026,0.184,0.296,273622
+Perfect,Ed Sheeran,English,0.748,0.687,0.529,137.42,0.376,0.141,0.111,0.388,218544
+Blinding Lights,The Weeknd,English,0.578,0.501,0.719,95.48,0.641,0.557,0.05,0.393,277028
+Levitating,Dua Lipa,English,0.899,0.638,0.659,118.46,0.718,0.363,0.162,0.232,285665
+Peaches,Justin Bieber,English,0.71,0.546,0.274,109.73,0.556,0.374,0.129,0.237,200197
+As It Was,Harry Styles,English,0.856,0.726,0.792,159.07,0.864,0.106,0.034,0.344,229471
+Dynamite,BTS,English,0.766,0.575,0.748,89.37,0.092,0.465,0.186,0.228,296425
+Stay,The Kid LAROI,English,0.505,0.671,0.559,143.24,0.372,0.225,0.078,0.18,228860
+Senorita,Shawn Mendes,English,0.492,0.772,0.265,96.51,0.243,0.24,0.164,0.418,233936
+Love Yourself,Justin Bieber,English,0.712,0.48,0.414,140.57,0.614,0.323,0.068,0.17,210289
+Shape of You,Ed Sheeran,English,0.849,0.905,0.838,148.85,0.291,0.532,0.196,0.424,248530
+Kesariya,Arijit Singh,Hindi,0.468,0.919,0.548,158.85,0.718,0.118,0.17,0.344,216796
+Tum Hi Ho,Arijit Singh,Hindi,0.645,0.916,0.514,125.54,0.224,0.197,0.119,0.448,277776
+Channa Mereya,Arijit Singh,Hindi,0.477,0.901,0.322,147.35,0.46,0.432,0.084,0.376,290922
+Tera Ban Jaunga,Akhil Sachdeva,Hindi,0.529,0.54,0.555,152.71,0.772,0.135,0.141,0.403,279671
+Shayad,Arijit Singh,Hindi,0.675,0.853,0.565,101.6,0.073,0.361,0.051,0.284,186469
+Raataan Lambiyan,Jubin Nautiyal,Hindi,0.461,0.897,0.48,86.61,0.676,0.584,0.177,0.28,265812
+Agar Tum Saath Ho,Alka Yagnik,Hindi,0.407,0.835,0.32,156.13,0.517,0.313,0.066,0.422,199844
+Kabira,Tochi Raina,Hindi,0.744,0.666,0.739,124.58,0.636,0.328,0.031,0.182,265734
+Mast Magan,Arijit Singh,Hindi,0.589,0.468,0.81,83.06,0.644,0.209,0.174,0.499,287854
+Sun Saathiya,Priya Saraiya,Hindi,0.538,0.663,0.646,105.92,0.875,0.557,0.153,0.282,190519
+Perfect,Ed Sheeran,English,0.817,0.611,0.662,130.49,0.73,0.473,0.092,0.215,291277
+Blinding Lights,The Weeknd,English,0.562,0.88,0.523,156.71,0.521,0.251,0.135,0.132,273477
+Levitating,Dua Lipa,English,0.586,0.705,0.91,153.25,0.812,0.214,0.042,0.439,208079
+Peaches,Justin Bieber,English,0.653,0.494,0.358,152.8,0.146,0.025,0.141,0.304,214369
+As It Was,Harry Styles,English,0.858,0.914,0.886,142.56,0.054,0.311,0.154,0.193,228470
+Dynamite,BTS,English,0.832,0.71,0.73,132.68,0.228,0.569,0.052,0.09,222659
+Stay,The Kid LAROI,English,0.889,0.683,0.271,101.15,0.414,0.456,0.126,0.211,298763
+Senorita,Shawn Mendes,English,0.816,0.669,0.571,107.8,0.179,0.539,0.044,0.246,189553
+Love Yourself,Justin Bieber,English,0.633,0.574,0.268,136.45,0.39,0.131,0.127,0.34,276067
+Shape of You,Ed Sheeran,English,0.521,0.535,0.553,132.75,0.187,0.114,0.033,0.291,246282
+Kesariya,Arijit Singh,Hindi,0.686,0.827,0.762,154.69,0.454,0.197,0.1,0.085,186772
+Tum Hi Ho,Arijit Singh,Hindi,0.521,0.925,0.768,105.72,0.874,0.19,0.14,0.167,258510
+Channa Mereya,Arijit Singh,Hindi,0.835,0.456,0.216,108.95,0.553,0.389,0.068,0.5,267428
+Tera Ban Jaunga,Akhil Sachdeva,Hindi,0.721,0.9,0.542,142.08,0.725,0.546,0.052,0.17,271760
+Shayad,Arijit Singh,Hindi,0.864,0.696,0.534,117.31,0.464,0.293,0.031,0.352,280893
+Raataan Lambiyan,Jubin Nautiyal,Hindi,0.404,0.565,0.695,141.15,0.184,0.266,0.158,0.102,186549
+Agar Tum Saath Ho,Alka Yagnik,Hindi,0.597,0.518,0.392,144.3,0.788,0.274,0.169,0.388,202404
+Kabira,Tochi Raina,Hindi,0.589,0.571,0.417,119.11,0.236,0.152,0.186,0.188,197515
+Mast Magan,Arijit Singh,Hindi,0.889,0.557,0.548,84.28,0.891,0.534,0.196,0.141,197706
+Sun Saathiya,Priya Saraiya,Hindi,0.568,0.783,0.469,139.67,0.655,0.198,0.145,0.289,295028
+Perfect,Ed Sheeran,English,0.794,0.516,0.897,111.25,0.641,0.209,0.053,0.142,257664
+Blinding Lights,The Weeknd,English,0.843,0.734,0.808,140.46,0.171,0.012,0.104,0.488,220872
+Levitating,Dua Lipa,English,0.49,0.796,0.631,124.43,0.091,0.173,0.12,0.311,190413
+Peaches,Justin Bieber,English,0.875,0.771,0.456,152.13,0.766,0.328,0.193,0.085,230114
+As It Was,Harry Styles,English,0.506,0.52,0.563,155.19,0.59,0.418,0.17,0.171,241694
+Dynamite,BTS,English,0.537,0.844,0.844,111.65,0.021,0.352,0.052,0.449,279804
+Stay,The Kid LAROI,English,0.729,0.455,0.4,148.0,0.414,0.065,0.117,0.302,274228
+Senorita,Shawn Mendes,English,0.662,0.45,0.558,142.86,0.037,0.221,0.05,0.467,249992
+Love Yourself,Justin Bieber,English,0.492,0.699,0.668,101.17,0.176,0.12,0.129,0.321,234719
+Shape of You,Ed Sheeran,English,0.805,0.508,0.392,131.34,0.786,0.191,0.034,0.265,266926
+Kesariya,Arijit Singh,Hindi,0.513,0.59,0.827,141.9,0.176,0.441,0.156,0.229,272476
+Tum Hi Ho,Arijit Singh,Hindi,0.561,0.843,0.4,82.73,0.041,0.002,0.078,0.185,275603
+Channa Mereya,Arijit Singh,Hindi,0.415,0.828,0.705,125.44,0.708,0.066,0.119,0.273,258573
+Tera Ban Jaunga,Akhil Sachdeva,Hindi,0.588,0.681,0.236,89.77,0.884,0.193,0.165,0.123,275052
+Shayad,Arijit Singh,Hindi,0.737,0.815,0.497,155.73,0.7,0.572,0.155,0.446,299772
+Raataan Lambiyan,Jubin Nautiyal,Hindi,0.625,0.452,0.325,141.22,0.349,0.031,0.178,0.144,248183
+Agar Tum Saath Ho,Alka Yagnik,Hindi,0.45,0.539,0.362,114.11,0.707,0.297,0.168,0.389,256520
+Kabira,Tochi Raina,Hindi,0.715,0.403,0.386,155.66,0.845,0.478,0.162,0.28,200411
+Mast Magan,Arijit Singh,Hindi,0.695,0.949,0.314,136.38,0.022,0.208,0.079,0.489,217654
+Sun Saathiya,Priya Saraiya,Hindi,0.797,0.924,0.949,126.27,0.472,0.163,0.104,0.455,285689
+Perfect,Ed Sheeran,English,0.857,0.485,0.629,128.86,0.802,0.533,0.104,0.248,212158
+Blinding Lights,The Weeknd,English,0.558,0.947,0.684,147.11,0.803,0.009,0.124,0.357,254932
+Levitating,Dua Lipa,English,0.484,0.493,0.84,118.7,0.871,0.545,0.066,0.105,281955
+Peaches,Justin Bieber,English,0.75,0.791,0.902,110.27,0.024,0.027,0.071,0.356,232979
+As It Was,Harry Styles,English,0.524,0.432,0.475,142.34,0.344,0.315,0.134,0.065,202848
+Dynamite,BTS,English,0.776,0.582,0.426,139.23,0.123,0.017,0.074,0.486,202423
+Stay,The Kid LAROI,English,0.48,0.575,0.368,91.83,0.384,0.184,0.122,0.211,288710
+Senorita,Shawn Mendes,English,0.51,0.728,0.57,112.41,0.308,0.422,0.111,0.252,191223
+Love Yourself,Justin Bieber,English,0.539,0.814,0.628,125.09,0.319,0.502,0.11,0.068,236164
+Shape of You,Ed Sheeran,English,0.44,0.469,0.814,81.59,0.602,0.042,0.12,0.458,243146
+Kesariya,Arijit Singh,Hindi,0.9,0.885,0.489,81.64,0.207,0.463,0.127,0.245,261698
+Tum Hi Ho,Arijit Singh,Hindi,0.803,0.425,0.468,104.29,0.578,0.297,0.195,0.405,269178
+Channa Mereya,Arijit Singh,Hindi,0.836,0.747,0.378,85.53,0.527,0.073,0.071,0.482,248067
+Tera Ban Jaunga,Akhil Sachdeva,Hindi,0.769,0.563,0.638,143.09,0.687,0.177,0.084,0.113,291944
+Shayad,Arijit Singh,Hindi,0.667,0.456,0.73,110.27,0.401,0.231,0.179,0.277,257794
+Raataan Lambiyan,Jubin Nautiyal,Hindi,0.899,0.879,0.756,83.38,0.668,0.132,0.031,0.312,266579
+Agar Tum Saath Ho,Alka Yagnik,Hindi,0.531,0.742,0.902,121.2,0.073,0.24,0.152,0.199,227046
+Kabira,Tochi Raina,Hindi,0.752,0.616,0.28,155.83,0.752,0.158,0.12,0.328,220637
+Mast Magan,Arijit Singh,Hindi,0.684,0.455,0.477,126.78,0.36,0.577,0.071,0.24,241148
+Sun Saathiya,Priya Saraiya,Hindi,0.806,0.769,0.531,122.36,0.149,0.476,0.195,0.434,213782
+Perfect,Ed Sheeran,English,0.784,0.675,0.708,128.99,0.646,0.585,0.116,0.053,288960
+Blinding Lights,The Weeknd,English,0.787,0.659,0.688,138.49,0.374,0.43,0.156,0.055,238797
+Levitating,Dua Lipa,English,0.487,0.507,0.472,89.27,0.093,0.547,0.065,0.478,260159
+Peaches,Justin Bieber,English,0.619,0.502,0.424,127.21,0.111,0.006,0.175,0.439,191271
+As It Was,Harry Styles,English,0.699,0.776,0.819,101.46,0.33,0.103,0.185,0.108,239413
+Dynamite,BTS,English,0.847,0.834,0.801,86.75,0.54,0.108,0.197,0.451,235541
+Stay,The Kid LAROI,English,0.772,0.558,0.916,133.55,0.224,0.084,0.032,0.176,243900
+Senorita,Shawn Mendes,English,0.416,0.585,0.77,152.92,0.326,0.543,0.147,0.256,185065
+Love Yourself,Justin Bieber,English,0.41,0.592,0.595,80.81,0.626,0.573,0.176,0.41,242528
+Shape of You,Ed Sheeran,English,0.83,0.524,0.327,111.57,0.864,0.229,0.192,0.357,195879
+Kesariya,Arijit Singh,Hindi,0.87,0.908,0.831,90.69,0.567,0.162,0.136,0.363,258737
+Tum Hi Ho,Arijit Singh,Hindi,0.447,0.564,0.583,111.63,0.718,0.564,0.093,0.082,203511
+Channa Mereya,Arijit Singh,Hindi,0.45,0.936,0.416,122.87,0.589,0.097,0.13,0.362,264295
+Tera Ban Jaunga,Akhil Sachdeva,Hindi,0.874,0.91,0.234,88.1,0.309,0.398,0.047,0.097,237869
+Shayad,Arijit Singh,Hindi,0.506,0.808,0.23,89.38,0.702,0.515,0.119,0.232,291304
+Raataan Lambiyan,Jubin Nautiyal,Hindi,0.671,0.409,0.265,148.55,0.032,0.198,0.033,0.133,187799
+Agar Tum Saath Ho,Alka Yagnik,Hindi,0.644,0.528,0.448,92.93,0.633,0.568,0.17,0.478,252539
+Kabira,Tochi Raina,Hindi,0.562,0.439,0.302,141.64,0.385,0.055,0.034,0.282,233041
+Mast Magan,Arijit Singh,Hindi,0.618,0.898,0.916,114.79,0.272,0.071,0.083,0.199,259942
+Sun Saathiya,Priya Saraiya,Hindi,0.874,0.822,0.548,108.94,0.886,0.073,0.041,0.104,187510
+Perfect,Ed Sheeran,English,0.866,0.765,0.233,155.63,0.062,0.143,0.074,0.099,210925
+Blinding Lights,The Weeknd,English,0.585,0.751,0.626,100.69,0.809,0.331,0.1,0.46,215443
+Levitating,Dua Lipa,English,0.437,0.409,0.843,147.95,0.56,0.464,0.105,0.276,190111
+Peaches,Justin Bieber,English,0.547,0.616,0.675,153.37,0.633,0.463,0.106,0.354,291858
+As It Was,Harry Styles,English,0.61,0.856,0.918,132.08,0.833,0.481,0.038,0.389,294952
+Dynamite,BTS,English,0.512,0.413,0.66,96.64,0.418,0.567,0.117,0.201,291024
+Stay,The Kid LAROI,English,0.715,0.427,0.776,93.08,0.489,0.492,0.173,0.221,244073
+Senorita,Shawn Mendes,English,0.594,0.459,0.333,140.48,0.795,0.146,0.143,0.152,284807
+Love Yourself,Justin Bieber,English,0.878,0.781,0.356,132.18,0.447,0.514,0.052,0.447,274592
+Shape of You,Ed Sheeran,English,0.591,0.495,0.747,110.36,0.758,0.054,0.09,0.431,264614
+Kesariya,Arijit Singh,Hindi,0.494,0.483,0.34,84.5,0.277,0.083,0.198,0.389,295034
+Tum Hi Ho,Arijit Singh,Hindi,0.603,0.503,0.222,108.82,0.734,0.566,0.048,0.107,229320
+Channa Mereya,Arijit Singh,Hindi,0.425,0.844,0.367,141.12,0.797,0.403,0.11,0.159,221124
+Tera Ban Jaunga,Akhil Sachdeva,Hindi,0.77,0.435,0.49,97.26,0.545,0.558,0.098,0.235,274948
+Shayad,Arijit Singh,Hindi,0.888,0.893,0.902,100.23,0.402,0.45,0.132,0.339,276069
+Raataan Lambiyan,Jubin Nautiyal,Hindi,0.432,0.646,0.924,119.81,0.394,0.517,0.059,0.286,246258
+Agar Tum Saath Ho,Alka Yagnik,Hindi,0.756,0.405,0.613,144.69,0.681,0.333,0.111,0.399,286642
+Kabira,Tochi Raina,Hindi,0.535,0.55,0.361,122.07,0.072,0.257,0.186,0.302,189242
+Mast Magan,Arijit Singh,Hindi,0.645,0.444,0.488,80.86,0.189,0.279,0.084,0.36,226572
+Sun Saathiya,Priya Saraiya,Hindi,0.75,0.721,0.589,116.07,0.575,0.456,0.103,0.132,256675
+Perfect,Ed Sheeran,English,0.409,0.766,0.261,122.76,0.353,0.275,0.099,0.397,197839
+Blinding Lights,The Weeknd,English,0.46,0.777,0.881,86.19,0.159,0.543,0.078,0.172,197837
+Levitating,Dua Lipa,English,0.758,0.598,0.457,119.01,0.821,0.102,0.098,0.108,297465
+Peaches,Justin Bieber,English,0.539,0.679,0.901,127.83,0.519,0.106,0.158,0.197,291815
+As It Was,Harry Styles,English,0.695,0.417,0.894,104.0,0.859,0.403,0.2,0.241,265506
+Dynamite,BTS,English,0.823,0.66,0.437,98.51,0.118,0.356,0.091,0.283,231992
+Stay,The Kid LAROI,English,0.579,0.878,0.298,140.22,0.611,0.596,0.135,0.132,274263
+Senorita,Shawn Mendes,English,0.449,0.64,0.269,126.41,0.037,0.107,0.107,0.345,223622
+Love Yourself,Justin Bieber,English,0.837,0.746,0.369,154.12,0.818,0.336,0.176,0.111,295123
+Shape of You,Ed Sheeran,English,0.715,0.647,0.701,105.66,0.854,0.087,0.098,0.276,294743
+Kalank,Arijit Singh,Hindi,0.768,0.611,0.867,110.79,0.522,0.19,0.082,0.342,181792
+Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,Hindi,0.625,0.874,0.323,110.98,0.562,0.595,0.152,0.374,233884
+Jeene Laga Hoon,Atif Aslam,Hindi,0.553,0.834,0.338,85.02,0.718,0.418,0.189,0.25,232857
+Galliyan,Ankit Tiwari,Hindi,0.449,0.685,0.608,113.76,0.568,0.411,0.093,0.122,196919
+Dil Diyan Gallan,Atif Aslam,Hindi,0.898,0.533,0.57,118.19,0.766,0.547,0.173,0.151,183797
+Tum Mile,Neeraj Shridhar,Hindi,0.838,0.44,0.846,125.64,0.301,0.347,0.098,0.333,278086
+Kaun Tujhe,Palak Muchhal,Hindi,0.619,0.767,0.745,130.62,0.772,0.444,0.149,0.357,263843
+Phir Le Aaya Dil,Rekha Bhardwaj,Hindi,0.462,0.461,0.39,149.33,0.305,0.145,0.155,0.306,207322
+Muskurane,Arijit Singh,Hindi,0.546,0.723,0.696,153.23,0.696,0.086,0.051,0.152,225240
+Main Phir Bhi Tumko Chahunga,Arijit Singh,Hindi,0.487,0.513,0.921,156.71,0.599,0.179,0.182,0.308,242905
+Someone Like You,Adele,English,0.521,0.739,0.912,132.8,0.535,0.535,0.053,0.251,212049
+Let Her Go,Passenger,English,0.67,0.882,0.721,98.0,0.802,0.053,0.038,0.223,256767
+Closer,The Chainsmokers,English,0.735,0.842,0.405,104.23,0.101,0.245,0.168,0.409,236877
+Photograph,Ed Sheeran,English,0.56,0.713,0.861,114.18,0.585,0.462,0.085,0.234,212641
+Memories,Maroon 5,English,0.759,0.489,0.57,90.88,0.201,0.403,0.033,0.197,191757
+Shallow,Lady Gaga,English,0.633,0.772,0.872,114.87,0.288,0.374,0.044,0.433,293726
+Believer,Imagine Dragons,English,0.628,0.678,0.493,92.46,0.231,0.279,0.137,0.425,249791
+Counting Stars,OneRepublic,English,0.507,0.405,0.508,87.04,0.792,0.022,0.186,0.109,291456
+Bad Habits,Ed Sheeran,English,0.697,0.702,0.834,95.31,0.241,0.38,0.162,0.213,182249
+Happier,Marshmello,English,0.851,0.796,0.602,134.5,0.206,0.288,0.061,0.31,288689
+Kalank,Arijit Singh,Hindi,0.822,0.853,0.527,87.6,0.489,0.23,0.128,0.304,231225
+Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,Hindi,0.697,0.754,0.618,150.14,0.781,0.171,0.091,0.377,204668
+Jeene Laga Hoon,Atif Aslam,Hindi,0.878,0.695,0.514,140.34,0.022,0.398,0.164,0.497,278408
+Galliyan,Ankit Tiwari,Hindi,0.782,0.521,0.752,107.48,0.137,0.202,0.138,0.358,195000
+Dil Diyan Gallan,Atif Aslam,Hindi,0.529,0.528,0.297,82.64,0.754,0.121,0.1,0.201,231864
+Tum Mile,Neeraj Shridhar,Hindi,0.445,0.901,0.613,86.52,0.732,0.192,0.06,0.108,283618
+Kaun Tujhe,Palak Muchhal,Hindi,0.71,0.611,0.354,110.84,0.667,0.427,0.038,0.204,243860
+Phir Le Aaya Dil,Rekha Bhardwaj,Hindi,0.642,0.663,0.238,149.56,0.696,0.423,0.067,0.052,292612
+Muskurane,Arijit Singh,Hindi,0.621,0.831,0.723,117.34,0.708,0.492,0.183,0.44,286363
+Main Phir Bhi Tumko Chahunga,Arijit Singh,Hindi,0.536,0.949,0.632,145.8,0.094,0.493,0.09,0.254,214140
+Someone Like You,Adele,English,0.658,0.658,0.347,135.42,0.309,0.498,0.033,0.397,288303
+Let Her Go,Passenger,English,0.705,0.712,0.904,98.86,0.642,0.526,0.186,0.389,260090
+Closer,The Chainsmokers,English,0.482,0.893,0.462,130.5,0.778,0.398,0.125,0.374,228099
+Photograph,Ed Sheeran,English,0.5,0.725,0.855,152.24,0.483,0.305,0.075,0.498,191782
+Memories,Maroon 5,English,0.856,0.604,0.728,131.64,0.867,0.504,0.07,0.172,226192
+Shallow,Lady Gaga,English,0.473,0.819,0.79,100.08,0.086,0.01,0.144,0.432,239743
+Believer,Imagine Dragons,English,0.696,0.936,0.635,128.53,0.065,0.112,0.134,0.22,183639
+Counting Stars,OneRepublic,English,0.588,0.591,0.545,129.27,0.205,0.464,0.081,0.418,191429
+Bad Habits,Ed Sheeran,English,0.54,0.895,0.656,146.82,0.491,0.081,0.032,0.358,271105
+Happier,Marshmello,English,0.47,0.916,0.286,131.71,0.799,0.513,0.031,0.16,256403
+Kalank,Arijit Singh,Hindi,0.837,0.747,0.841,126.07,0.556,0.338,0.196,0.4,241359
+Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,Hindi,0.48,0.495,0.4,132.0,0.88,0.165,0.15,0.265,222140
+Jeene Laga Hoon,Atif Aslam,Hindi,0.682,0.776,0.494,140.03,0.083,0.163,0.077,0.333,208878
+Galliyan,Ankit Tiwari,Hindi,0.456,0.412,0.527,134.18,0.563,0.379,0.142,0.11,203119
+Dil Diyan Gallan,Atif Aslam,Hindi,0.655,0.861,0.845,129.38,0.603,0.387,0.147,0.107,276138
+Tum Mile,Neeraj Shridhar,Hindi,0.558,0.585,0.36,123.11,0.704,0.227,0.083,0.355,208022
+Kaun Tujhe,Palak Muchhal,Hindi,0.407,0.931,0.502,127.78,0.606,0.309,0.062,0.331,206431
+Phir Le Aaya Dil,Rekha Bhardwaj,Hindi,0.549,0.439,0.416,99.04,0.336,0.498,0.182,0.414,263175
+Muskurane,Arijit Singh,Hindi,0.793,0.704,0.626,114.76,0.577,0.139,0.134,0.394,267676
+Main Phir Bhi Tumko Chahunga,Arijit Singh,Hindi,0.808,0.685,0.269,159.57,0.26,0.32,0.048,0.328,231404
+Someone Like You,Adele,English,0.882,0.905,0.396,158.1,0.772,0.591,0.12,0.487,260206
+Let Her Go,Passenger,English,0.82,0.906,0.429,97.02,0.801,0.189,0.05,0.13,212253
+Closer,The Chainsmokers,English,0.834,0.857,0.564,121.14,0.339,0.402,0.121,0.145,269661
+Photograph,Ed Sheeran,English,0.688,0.646,0.607,144.85,0.788,0.088,0.178,0.132,213375
+Memories,Maroon 5,English,0.879,0.539,0.859,157.32,0.323,0.107,0.08,0.384,182360
+Shallow,Lady Gaga,English,0.65,0.799,0.888,126.59,0.169,0.593,0.142,0.335,181927
+Believer,Imagine Dragons,English,0.482,0.892,0.411,143.55,0.217,0.303,0.034,0.399,256435
+Counting Stars,OneRepublic,English,0.495,0.538,0.886,115.95,0.622,0.369,0.052,0.105,223250
+Bad Habits,Ed Sheeran,English,0.459,0.813,0.678,94.54,0.165,0.445,0.039,0.421,253112
+Happier,Marshmello,English,0.812,0.837,0.21,106.06,0.754,0.415,0.031,0.437,242381
+Kalank,Arijit Singh,Hindi,0.764,0.891,0.238,125.54,0.575,0.415,0.071,0.246,210459
+Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,Hindi,0.744,0.708,0.825,152.3,0.524,0.166,0.087,0.232,195806
+Jeene Laga Hoon,Atif Aslam,Hindi,0.573,0.82,0.331,126.58,0.516,0.143,0.18,0.205,261621
+Galliyan,Ankit Tiwari,Hindi,0.604,0.498,0.369,107.69,0.15,0.521,0.104,0.105,180048
+Dil Diyan Gallan,Atif Aslam,Hindi,0.681,0.644,0.442,123.99,0.433,0.587,0.129,0.431,279110
+Tum Mile,Neeraj Shridhar,Hindi,0.694,0.514,0.27,149.84,0.284,0.063,0.057,0.221,294414
+Kaun Tujhe,Palak Muchhal,Hindi,0.48,0.912,0.627,100.76,0.412,0.329,0.131,0.133,279657
+Phir Le Aaya Dil,Rekha Bhardwaj,Hindi,0.41,0.607,0.26,88.29,0.638,0.125,0.1,0.481,270878
+Muskurane,Arijit Singh,Hindi,0.717,0.564,0.702,143.47,0.434,0.522,0.182,0.238,286632
+Main Phir Bhi Tumko Chahunga,Arijit Singh,Hindi,0.418,0.64,0.578,86.45,0.206,0.454,0.138,0.278,205156
+Someone Like You,Adele,English,0.593,0.403,0.542,139.58,0.07,0.299,0.076,0.153,292880
+Let Her Go,Passenger,English,0.662,0.77,0.573,132.32,0.774,0.39,0.049,0.156,221402
+Closer,The Chainsmokers,English,0.586,0.884,0.285,113.52,0.332,0.171,0.136,0.101,224668
+Photograph,Ed Sheeran,English,0.887,0.768,0.715,154.89,0.253,0.196,0.178,0.281,204703
+Memories,Maroon 5,English,0.415,0.524,0.724,92.79,0.627,0.026,0.074,0.176,219068
+Shallow,Lady Gaga,English,0.646,0.536,0.581,156.26,0.364,0.221,0.145,0.249,280129
+Believer,Imagine Dragons,English,0.604,0.624,0.474,86.86,0.165,0.59,0.123,0.412,290042
+Counting Stars,OneRepublic,English,0.6,0.823,0.864,156.75,0.798,0.167,0.083,0.429,182548
+Bad Habits,Ed Sheeran,English,0.423,0.445,0.949,153.5,0.887,0.058,0.143,0.475,230684
+Happier,Marshmello,English,0.408,0.942,0.334,153.47,0.168,0.33,0.19,0.436,198792
+Kalank,Arijit Singh,Hindi,0.714,0.886,0.829,97.81,0.475,0.212,0.066,0.365,248066
+Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,Hindi,0.88,0.612,0.897,96.97,0.39,0.075,0.037,0.31,225945
+Jeene Laga Hoon,Atif Aslam,Hindi,0.832,0.553,0.702,94.68,0.31,0.066,0.122,0.342,234531
+Galliyan,Ankit Tiwari,Hindi,0.875,0.464,0.865,150.63,0.425,0.516,0.077,0.484,273860
+Dil Diyan Gallan,Atif Aslam,Hindi,0.562,0.744,0.848,106.54,0.3,0.356,0.16,0.215,286193
+Tum Mile,Neeraj Shridhar,Hindi,0.662,0.737,0.937,147.61,0.248,0.186,0.089,0.394,275731
+Kaun Tujhe,Palak Muchhal,Hindi,0.596,0.602,0.719,93.11,0.143,0.122,0.096,0.457,253288
+Phir Le Aaya Dil,Rekha Bhardwaj,Hindi,0.753,0.84,0.409,146.23,0.525,0.561,0.107,0.162,217695
+Muskurane,Arijit Singh,Hindi,0.416,0.559,0.597,99.92,0.753,0.214,0.09,0.208,209260
+Main Phir Bhi Tumko Chahunga,Arijit Singh,Hindi,0.741,0.938,0.265,139.89,0.625,0.22,0.145,0.296,219410
+Someone Like You,Adele,English,0.735,0.779,0.608,102.07,0.428,0.395,0.092,0.396,280302
+Let Her Go,Passenger,English,0.579,0.671,0.51,142.5,0.634,0.461,0.177,0.287,235283
+Closer,The Chainsmokers,English,0.586,0.873,0.802,84.19,0.46,0.344,0.126,0.466,207217
+Photograph,Ed Sheeran,English,0.645,0.854,0.338,99.24,0.669,0.022,0.08,0.22,268003
+Memories,Maroon 5,English,0.528,0.462,0.616,98.58,0.271,0.358,0.12,0.182,232432
+Shallow,Lady Gaga,English,0.826,0.658,0.856,107.75,0.855,0.419,0.145,0.119,256803
+Believer,Imagine Dragons,English,0.6,0.569,0.244,156.94,0.32,0.028,0.197,0.499,203664
+Counting Stars,OneRepublic,English,0.431,0.575,0.341,80.24,0.705,0.38,0.159,0.256,261244
+Bad Habits,Ed Sheeran,English,0.708,0.908,0.29,97.16,0.523,0.22,0.052,0.397,237355
+Happier,Marshmello,English,0.76,0.86,0.684,137.2,0.193,0.406,0.196,0.265,246983
+Kalank,Arijit Singh,Hindi,0.529,0.75,0.71,141.23,0.543,0.211,0.052,0.362,237442
+Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,Hindi,0.492,0.75,0.623,101.95,0.814,0.48,0.067,0.111,288200
+Jeene Laga Hoon,Atif Aslam,Hindi,0.587,0.929,0.945,104.22,0.324,0.595,0.044,0.099,210511
+Galliyan,Ankit Tiwari,Hindi,0.419,0.743,0.266,138.09,0.762,0.157,0.176,0.486,250991
+Dil Diyan Gallan,Atif Aslam,Hindi,0.588,0.691,0.82,129.04,0.882,0.259,0.192,0.184,272901
+Tum Mile,Neeraj Shridhar,Hindi,0.59,0.873,0.755,89.34,0.859,0.431,0.104,0.478,260406
+Kaun Tujhe,Palak Muchhal,Hindi,0.412,0.851,0.5,133.11,0.115,0.174,0.189,0.438,206975
+Phir Le Aaya Dil,Rekha Bhardwaj,Hindi,0.681,0.858,0.854,93.89,0.441,0.018,0.142,0.215,298921
+Muskurane,Arijit Singh,Hindi,0.687,0.522,0.893,147.14,0.682,0.27,0.064,0.274,239859
+Main Phir Bhi Tumko Chahunga,Arijit Singh,Hindi,0.519,0.477,0.808,143.37,0.089,0.004,0.17,0.307,235029
+Someone Like You,Adele,English,0.85,0.656,0.624,88.5,0.207,0.002,0.134,0.394,195647
+Let Her Go,Passenger,English,0.501,0.718,0.734,86.19,0.767,0.271,0.15,0.303,210886
+Closer,The Chainsmokers,English,0.705,0.443,0.54,122.73,0.208,0.055,0.051,0.258,260162
+Photograph,Ed Sheeran,English,0.511,0.636,0.933,130.31,0.366,0.257,0.12,0.355,181126
+Memories,Maroon 5,English,0.547,0.572,0.337,112.96,0.257,0.296,0.055,0.064,182791
+Shallow,Lady Gaga,English,0.869,0.698,0.515,111.02,0.083,0.109,0.086,0.457,202922
+Believer,Imagine Dragons,English,0.494,0.931,0.709,133.53,0.853,0.11,0.155,0.277,211142
+Counting Stars,OneRepublic,English,0.509,0.868,0.642,81.02,0.335,0.31,0.049,0.287,284585
+Bad Habits,Ed Sheeran,English,0.408,0.431,0.427,134.25,0.302,0.125,0.084,0.085,290710
+Happier,Marshmello,English,0.581,0.57,0.202,152.62,0.394,0.064,0.101,0.052,212212
+Kalank,Arijit Singh,Hindi,0.662,0.932,0.501,131.36,0.702,0.135,0.168,0.272,183908
+Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,Hindi,0.589,0.646,0.476,133.91,0.097,0.21,0.178,0.212,249916
+Jeene Laga Hoon,Atif Aslam,Hindi,0.588,0.513,0.715,114.35,0.055,0.275,0.074,0.348,231217
+Galliyan,Ankit Tiwari,Hindi,0.896,0.891,0.358,135.68,0.703,0.235,0.102,0.211,225955
+Dil Diyan Gallan,Atif Aslam,Hindi,0.853,0.917,0.277,151.52,0.515,0.477,0.075,0.239,186336
+Tum Mile,Neeraj Shridhar,Hindi,0.57,0.632,0.705,148.44,0.802,0.142,0.117,0.387,257528
+Kaun Tujhe,Palak Muchhal,Hindi,0.557,0.806,0.436,129.87,0.331,0.504,0.18,0.468,299883
+Phir Le Aaya Dil,Rekha Bhardwaj,Hindi,0.733,0.856,0.337,148.55,0.366,0.377,0.155,0.3,202315
+Muskurane,Arijit Singh,Hindi,0.814,0.788,0.944,119.47,0.67,0.278,0.193,0.26,195348
+Main Phir Bhi Tumko Chahunga,Arijit Singh,Hindi,0.683,0.745,0.806,114.77,0.139,0.228,0.175,0.105,198278
+Someone Like You,Adele,English,0.852,0.729,0.344,129.53,0.281,0.414,0.133,0.128,222507
+Let Her Go,Passenger,English,0.712,0.882,0.904,94.23,0.834,0.347,0.136,0.332,226303
+Closer,The Chainsmokers,English,0.527,0.66,0.373,145.69,0.628,0.269,0.089,0.495,296053
+Photograph,Ed Sheeran,English,0.785,0.722,0.728,81.55,0.617,0.072,0.102,0.058,225188
+Memories,Maroon 5,English,0.496,0.592,0.701,158.95,0.887,0.227,0.155,0.445,195353
+Shallow,Lady Gaga,English,0.715,0.888,0.515,122.14,0.723,0.404,0.113,0.326,251068
+Believer,Imagine Dragons,English,0.803,0.944,0.914,107.37,0.669,0.196,0.119,0.346,233577
+Counting Stars,OneRepublic,English,0.704,0.423,0.768,96.49,0.371,0.56,0.049,0.337,219103
+Bad Habits,Ed Sheeran,English,0.765,0.577,0.286,153.46,0.845,0.362,0.052,0.313,298770
+Happier,Marshmello,English,0.781,0.673,0.212,114.41,0.109,0.138,0.158,0.161,241851
+Kalank,Arijit Singh,Hindi,0.7,0.449,0.632,86.16,0.46,0.446,0.164,0.452,193563
+Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,Hindi,0.686,0.763,0.748,146.25,0.788,0.231,0.165,0.09,191338
+Jeene Laga Hoon,Atif Aslam,Hindi,0.688,0.58,0.923,109.38,0.876,0.173,0.124,0.47,197562
+Galliyan,Ankit Tiwari,Hindi,0.887,0.673,0.488,149.01,0.526,0.127,0.16,0.288,295584
+Dil Diyan Gallan,Atif Aslam,Hindi,0.771,0.715,0.858,98.06,0.559,0.471,0.07,0.262,268207
+Tum Mile,Neeraj Shridhar,Hindi,0.588,0.9,0.242,131.42,0.567,0.384,0.109,0.45,227805
+Kaun Tujhe,Palak Muchhal,Hindi,0.846,0.478,0.28,150.7,0.734,0.358,0.048,0.254,267436
+Phir Le Aaya Dil,Rekha Bhardwaj,Hindi,0.85,0.682,0.68,135.69,0.334,0.497,0.162,0.328,186925
+Muskurane,Arijit Singh,Hindi,0.755,0.904,0.511,154.62,0.567,0.23,0.1,0.224,185652
+Main Phir Bhi Tumko Chahunga,Arijit Singh,Hindi,0.647,0.909,0.55,158.36,0.076,0.029,0.049,0.256,200266
+Someone Like You,Adele,English,0.486,0.726,0.79,125.66,0.364,0.013,0.129,0.266,287555
+Let Her Go,Passenger,English,0.46,0.88,0.243,111.93,0.601,0.416,0.082,0.318,289630
+Closer,The Chainsmokers,English,0.689,0.601,0.936,159.97,0.762,0.198,0.051,0.243,186853
+Photograph,Ed Sheeran,English,0.84,0.6,0.737,96.73,0.678,0.063,0.048,0.305,209903
+Memories,Maroon 5,English,0.557,0.423,0.321,111.12,0.34,0.166,0.194,0.218,287963
+Shallow,Lady Gaga,English,0.731,0.418,0.33,149.53,0.677,0.186,0.176,0.36,180816
+Believer,Imagine Dragons,English,0.452,0.739,0.428,154.76,0.178,0.172,0.088,0.098,267986
+Counting Stars,OneRepublic,English,0.628,0.768,0.72,119.77,0.229,0.351,0.131,0.422,283404
+Bad Habits,Ed Sheeran,English,0.804,0.651,0.757,86.87,0.714,0.108,0.086,0.495,220815
+Happier,Marshmello,English,0.402,0.664,0.934,84.19,0.624,0.32,0.168,0.142,215114
+Kalank,Arijit Singh,Hindi,0.757,0.845,0.538,159.92,0.775,0.009,0.118,0.424,244727
+Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,Hindi,0.587,0.909,0.903,130.48,0.878,0.516,0.034,0.326,275637
+Jeene Laga Hoon,Atif Aslam,Hindi,0.75,0.795,0.601,114.57,0.463,0.433,0.094,0.233,213355
+Galliyan,Ankit Tiwari,Hindi,0.512,0.485,0.557,138.06,0.618,0.037,0.054,0.23,212241
+Dil Diyan Gallan,Atif Aslam,Hindi,0.67,0.482,0.92,135.36,0.798,0.309,0.169,0.224,265198
+Tum Mile,Neeraj Shridhar,Hindi,0.614,0.63,0.545,132.3,0.294,0.103,0.062,0.392,220717
+Kaun Tujhe,Palak Muchhal,Hindi,0.612,0.513,0.81,122.97,0.675,0.317,0.183,0.391,264569
+Phir Le Aaya Dil,Rekha Bhardwaj,Hindi,0.449,0.789,0.351,92.22,0.767,0.553,0.039,0.455,242615
+Muskurane,Arijit Singh,Hindi,0.894,0.437,0.637,115.9,0.251,0.153,0.055,0.229,226364
+Main Phir Bhi Tumko Chahunga,Arijit Singh,Hindi,0.733,0.832,0.3,133.57,0.827,0.464,0.062,0.112,219480
+Someone Like You,Adele,English,0.868,0.444,0.356,124.93,0.621,0.157,0.064,0.389,243407
+Let Her Go,Passenger,English,0.549,0.486,0.341,89.3,0.238,0.08,0.084,0.187,180868
+Closer,The Chainsmokers,English,0.723,0.533,0.417,95.32,0.812,0.485,0.17,0.065,240880
+Photograph,Ed Sheeran,English,0.89,0.474,0.255,124.38,0.453,0.049,0.133,0.168,297007
+Memories,Maroon 5,English,0.777,0.835,0.405,95.66,0.332,0.503,0.174,0.463,211634
+Shallow,Lady Gaga,English,0.813,0.512,0.397,148.88,0.712,0.117,0.166,0.161,212533
+Believer,Imagine Dragons,English,0.779,0.899,0.232,97.82,0.691,0.294,0.195,0.415,210195
+Counting Stars,OneRepublic,English,0.692,0.579,0.301,135.88,0.492,0.241,0.138,0.137,191094
+Bad Habits,Ed Sheeran,English,0.512,0.564,0.453,153.41,0.274,0.379,0.044,0.091,207084
+Happier,Marshmello,English,0.687,0.51,0.335,114.0,0.293,0.374,0.112,0.267,269095
+Kalank,Arijit Singh,Hindi,0.807,0.905,0.714,129.58,0.045,0.591,0.193,0.333,296891
+Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,Hindi,0.683,0.948,0.506,106.92,0.1,0.177,0.131,0.256,212484
+Jeene Laga Hoon,Atif Aslam,Hindi,0.469,0.467,0.465,85.02,0.185,0.254,0.162,0.432,221834
+Galliyan,Ankit Tiwari,Hindi,0.447,0.796,0.359,104.91,0.388,0.302,0.115,0.122,217629
+Dil Diyan Gallan,Atif Aslam,Hindi,0.41,0.523,0.366,83.17,0.898,0.455,0.043,0.499,208962
+Tum Mile,Neeraj Shridhar,Hindi,0.642,0.816,0.911,88.11,0.868,0.031,0.092,0.431,296888
+Kaun Tujhe,Palak Muchhal,Hindi,0.754,0.664,0.877,121.01,0.673,0.157,0.183,0.135,229451
+Phir Le Aaya Dil,Rekha Bhardwaj,Hindi,0.575,0.637,0.229,147.77,0.729,0.122,0.082,0.112,190339
+Muskurane,Arijit Singh,Hindi,0.597,0.431,0.743,86.71,0.234,0.009,0.135,0.47,292423
+Main Phir Bhi Tumko Chahunga,Arijit Singh,Hindi,0.614,0.638,0.276,149.16,0.59,0.044,0.061,0.089,218620
+Someone Like You,Adele,English,0.641,0.816,0.795,159.2,0.473,0.503,0.11,0.23,192436
+Let Her Go,Passenger,English,0.582,0.825,0.897,81.45,0.573,0.423,0.086,0.083,241151
+Closer,The Chainsmokers,English,0.758,0.619,0.682,136.02,0.615,0.175,0.1,0.446,197358
+Photograph,Ed Sheeran,English,0.616,0.792,0.798,81.62,0.682,0.324,0.111,0.227,207371
+Memories,Maroon 5,English,0.86,0.564,0.353,133.24,0.459,0.399,0.126,0.289,204904
+Shallow,Lady Gaga,English,0.679,0.51,0.575,99.3,0.778,0.302,0.082,0.436,294579
+Believer,Imagine Dragons,English,0.49,0.861,0.901,123.82,0.115,0.07,0.189,0.378,203652
+Counting Stars,OneRepublic,English,0.413,0.491,0.525,115.3,0.394,0.558,0.034,0.355,271181
+Bad Habits,Ed Sheeran,English,0.524,0.453,0.477,110.33,0.417,0.053,0.072,0.102,232822
+Happier,Marshmello,English,0.476,0.787,0.247,83.53,0.415,0.189,0.083,0.113,246255
+Pee Loon,Mohit Chauhan,Hindi,0.418,0.766,0.227,96.31,0.038,0.014,0.127,0.441,262196
+Tera Hone Laga Hoon,Atif Aslam,Hindi,0.781,0.893,0.945,150.38,0.459,0.33,0.089,0.129,276987
+Bolna,Arijit Singh,Hindi,0.856,0.921,0.563,83.99,0.744,0.553,0.145,0.381,267786
+Sun Raha Hai,Ankit Tiwari,Hindi,0.704,0.685,0.632,131.7,0.386,0.574,0.058,0.392,183672
+Laung Da Lashkara,Hard Kaur,Hindi,0.646,0.912,0.783,104.87,0.05,0.071,0.142,0.311,272414
+Moh Moh Ke Dhaage,Monali Thakur,Hindi,0.435,0.684,0.35,147.29,0.162,0.438,0.048,0.263,197957
+Dil Se Re,A. R. Rahman,Hindi,0.789,0.519,0.601,105.72,0.711,0.243,0.039,0.317,295241
+Saudagar Sauda Kar,Laxmikant-Pyarelal,Hindi,0.513,0.539,0.222,111.75,0.556,0.353,0.079,0.404,219946
+Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,0.54,0.794,0.312,138.72,0.373,0.506,0.103,0.296,199001
+O Rangrez,Shreya Ghoshal,Hindi,0.563,0.562,0.846,103.32,0.861,0.156,0.194,0.284,243009
+Halo,Beyoncé,English,0.768,0.588,0.266,156.16,0.233,0.201,0.06,0.303,245058
+Roar,Katy Perry,English,0.502,0.748,0.794,125.91,0.645,0.206,0.049,0.2,188604
+Lovely,Billie Eilish,English,0.422,0.591,0.384,115.53,0.25,0.191,0.043,0.295,194576
+Sunflower,Post Malone,English,0.805,0.616,0.591,114.44,0.577,0.272,0.038,0.219,180783
+Uptown Funk,Bruno Mars,English,0.574,0.928,0.24,117.38,0.539,0.203,0.035,0.058,264207
+Wake Me Up,Avicii,English,0.467,0.504,0.216,121.82,0.751,0.023,0.064,0.48,199338
+See You Again,Wiz Khalifa,English,0.559,0.843,0.487,143.51,0.684,0.212,0.197,0.401,229449
+Animals,Maroon 5,English,0.715,0.861,0.249,133.57,0.167,0.211,0.1,0.212,293308
+Don't Let Me Down,The Chainsmokers,English,0.798,0.627,0.521,96.01,0.18,0.119,0.186,0.221,215483
+Shape of My Heart,Backstreet Boys,English,0.744,0.873,0.303,106.87,0.406,0.486,0.038,0.497,246626
+Pee Loon,Mohit Chauhan,Hindi,0.73,0.775,0.718,118.08,0.488,0.469,0.081,0.271,256198
+Tera Hone Laga Hoon,Atif Aslam,Hindi,0.672,0.9,0.258,148.74,0.799,0.54,0.049,0.069,259180
+Bolna,Arijit Singh,Hindi,0.718,0.454,0.357,100.31,0.232,0.327,0.085,0.165,217501
+Sun Raha Hai,Ankit Tiwari,Hindi,0.466,0.46,0.783,131.98,0.651,0.189,0.067,0.121,284493
+Laung Da Lashkara,Hard Kaur,Hindi,0.615,0.784,0.808,99.09,0.232,0.526,0.145,0.432,251136
+Moh Moh Ke Dhaage,Monali Thakur,Hindi,0.41,0.51,0.481,89.74,0.133,0.24,0.154,0.449,292862
+Dil Se Re,A. R. Rahman,Hindi,0.439,0.932,0.554,138.05,0.079,0.086,0.191,0.217,210418
+Saudagar Sauda Kar,Laxmikant-Pyarelal,Hindi,0.569,0.743,0.646,107.84,0.291,0.336,0.182,0.491,230204
+Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,0.9,0.591,0.73,84.25,0.582,0.431,0.182,0.166,254585
+O Rangrez,Shreya Ghoshal,Hindi,0.763,0.629,0.882,112.89,0.834,0.57,0.118,0.167,254741
+Halo,Beyoncé,English,0.876,0.519,0.547,125.44,0.188,0.229,0.057,0.169,229013
+Roar,Katy Perry,English,0.426,0.751,0.799,132.78,0.476,0.134,0.148,0.263,250043
+Lovely,Billie Eilish,English,0.659,0.588,0.77,154.94,0.442,0.146,0.058,0.17,284166
+Sunflower,Post Malone,English,0.848,0.711,0.734,97.22,0.013,0.582,0.093,0.442,212836
+Uptown Funk,Bruno Mars,English,0.625,0.849,0.826,125.34,0.843,0.541,0.16,0.097,273236
+Wake Me Up,Avicii,English,0.502,0.794,0.579,89.04,0.04,0.129,0.19,0.367,254058
+See You Again,Wiz Khalifa,English,0.757,0.943,0.25,81.9,0.267,0.38,0.17,0.151,183701
+Animals,Maroon 5,English,0.424,0.596,0.253,86.33,0.886,0.554,0.142,0.108,273193
+Don't Let Me Down,The Chainsmokers,English,0.768,0.417,0.578,124.39,0.638,0.371,0.104,0.435,210245
+Shape of My Heart,Backstreet Boys,English,0.7,0.44,0.494,116.92,0.117,0.366,0.083,0.122,259914
+Pee Loon,Mohit Chauhan,Hindi,0.751,0.624,0.863,131.45,0.537,0.431,0.096,0.345,243218
+Tera Hone Laga Hoon,Atif Aslam,Hindi,0.431,0.596,0.408,145.58,0.286,0.525,0.036,0.115,223730
+Bolna,Arijit Singh,Hindi,0.643,0.534,0.318,156.01,0.328,0.271,0.037,0.075,183465
+Sun Raha Hai,Ankit Tiwari,Hindi,0.485,0.621,0.654,119.6,0.542,0.048,0.131,0.071,254590
+Laung Da Lashkara,Hard Kaur,Hindi,0.51,0.488,0.708,105.62,0.757,0.274,0.198,0.125,208651
+Moh Moh Ke Dhaage,Monali Thakur,Hindi,0.412,0.892,0.445,103.79,0.89,0.067,0.11,0.068,198830
+Dil Se Re,A. R. Rahman,Hindi,0.768,0.779,0.385,143.63,0.502,0.109,0.189,0.443,223314
+Saudagar Sauda Kar,Laxmikant-Pyarelal,Hindi,0.631,0.612,0.714,81.02,0.806,0.092,0.151,0.095,209968
+Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,0.508,0.551,0.413,110.72,0.73,0.515,0.137,0.127,209811
+O Rangrez,Shreya Ghoshal,Hindi,0.772,0.561,0.522,97.42,0.331,0.154,0.109,0.303,245664
+Halo,Beyoncé,English,0.847,0.582,0.315,125.78,0.857,0.392,0.072,0.422,261943
+Roar,Katy Perry,English,0.897,0.926,0.626,116.4,0.276,0.027,0.106,0.06,270007
+Lovely,Billie Eilish,English,0.664,0.531,0.899,120.61,0.192,0.509,0.166,0.066,226551
+Sunflower,Post Malone,English,0.598,0.822,0.345,84.32,0.439,0.173,0.188,0.14,222064
+Uptown Funk,Bruno Mars,English,0.669,0.722,0.433,124.18,0.74,0.337,0.183,0.176,277284
+Wake Me Up,Avicii,English,0.572,0.607,0.939,151.92,0.08,0.47,0.044,0.143,191824
+See You Again,Wiz Khalifa,English,0.553,0.67,0.44,126.11,0.696,0.134,0.146,0.189,203854
+Animals,Maroon 5,English,0.675,0.633,0.363,99.9,0.274,0.411,0.036,0.422,185252
+Don't Let Me Down,The Chainsmokers,English,0.586,0.442,0.577,116.64,0.727,0.117,0.129,0.244,200125
+Shape of My Heart,Backstreet Boys,English,0.42,0.765,0.232,112.9,0.085,0.104,0.064,0.421,206056
+Pee Loon,Mohit Chauhan,Hindi,0.861,0.415,0.382,80.47,0.785,0.116,0.144,0.05,282407
+Tera Hone Laga Hoon,Atif Aslam,Hindi,0.835,0.578,0.325,99.9,0.193,0.561,0.145,0.299,244986
+Bolna,Arijit Singh,Hindi,0.453,0.404,0.4,124.0,0.558,0.04,0.18,0.372,251393
+Sun Raha Hai,Ankit Tiwari,Hindi,0.84,0.822,0.546,145.38,0.339,0.078,0.157,0.486,271463
+Laung Da Lashkara,Hard Kaur,Hindi,0.434,0.606,0.75,102.9,0.387,0.442,0.118,0.313,196054
+Moh Moh Ke Dhaage,Monali Thakur,Hindi,0.471,0.85,0.441,87.78,0.114,0.245,0.161,0.197,274419
+Dil Se Re,A. R. Rahman,Hindi,0.423,0.419,0.434,83.71,0.162,0.556,0.197,0.187,262588
+Saudagar Sauda Kar,Laxmikant-Pyarelal,Hindi,0.529,0.474,0.398,121.51,0.656,0.055,0.057,0.359,298838
+Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,0.712,0.421,0.443,158.04,0.236,0.335,0.154,0.308,255398
+O Rangrez,Shreya Ghoshal,Hindi,0.457,0.842,0.591,157.44,0.786,0.24,0.12,0.301,295192
+Halo,Beyoncé,English,0.734,0.847,0.586,103.91,0.33,0.24,0.164,0.456,286170
+Roar,Katy Perry,English,0.578,0.765,0.288,126.55,0.775,0.595,0.195,0.304,187715
+Lovely,Billie Eilish,English,0.603,0.856,0.287,132.98,0.364,0.527,0.167,0.261,235049
+Sunflower,Post Malone,English,0.745,0.591,0.445,127.64,0.422,0.092,0.072,0.155,200416
+Uptown Funk,Bruno Mars,English,0.679,0.401,0.593,99.58,0.186,0.148,0.165,0.292,231921
+Wake Me Up,Avicii,English,0.796,0.781,0.914,116.46,0.372,0.443,0.108,0.051,273092
+See You Again,Wiz Khalifa,English,0.743,0.702,0.788,106.9,0.589,0.242,0.171,0.283,218466
+Animals,Maroon 5,English,0.873,0.701,0.296,99.94,0.467,0.566,0.058,0.13,234109
+Don't Let Me Down,The Chainsmokers,English,0.611,0.567,0.525,120.56,0.609,0.321,0.1,0.458,181879
+Shape of My Heart,Backstreet Boys,English,0.506,0.808,0.425,102.48,0.632,0.268,0.163,0.461,247623
+Pee Loon,Mohit Chauhan,Hindi,0.721,0.74,0.567,108.41,0.136,0.285,0.103,0.333,232442
+Tera Hone Laga Hoon,Atif Aslam,Hindi,0.505,0.481,0.444,119.05,0.247,0.014,0.1,0.259,282675
+Bolna,Arijit Singh,Hindi,0.576,0.529,0.592,101.3,0.843,0.585,0.05,0.188,201302
+Sun Raha Hai,Ankit Tiwari,Hindi,0.591,0.582,0.314,87.97,0.894,0.281,0.119,0.133,207858
+Laung Da Lashkara,Hard Kaur,Hindi,0.897,0.533,0.343,107.55,0.139,0.207,0.139,0.107,293209
+Moh Moh Ke Dhaage,Monali Thakur,Hindi,0.784,0.877,0.829,103.75,0.505,0.537,0.08,0.255,245974
+Dil Se Re,A. R. Rahman,Hindi,0.438,0.665,0.526,94.27,0.386,0.1,0.198,0.275,187201
+Saudagar Sauda Kar,Laxmikant-Pyarelal,Hindi,0.831,0.734,0.938,134.37,0.367,0.178,0.038,0.241,271357
+Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,0.7,0.571,0.77,107.82,0.145,0.253,0.049,0.178,239518
+O Rangrez,Shreya Ghoshal,Hindi,0.789,0.737,0.825,92.08,0.128,0.389,0.063,0.409,239635
+Halo,Beyoncé,English,0.9,0.83,0.698,154.4,0.257,0.271,0.094,0.094,295299
+Roar,Katy Perry,English,0.401,0.481,0.243,158.56,0.706,0.546,0.145,0.423,280649
+Lovely,Billie Eilish,English,0.417,0.58,0.46,118.43,0.749,0.267,0.069,0.252,233648
+Sunflower,Post Malone,English,0.89,0.638,0.57,152.17,0.792,0.467,0.152,0.146,298541
+Uptown Funk,Bruno Mars,English,0.499,0.803,0.493,158.48,0.128,0.027,0.127,0.334,287379
+Wake Me Up,Avicii,English,0.821,0.673,0.222,117.88,0.466,0.069,0.041,0.141,294156
+See You Again,Wiz Khalifa,English,0.622,0.501,0.476,120.2,0.528,0.46,0.062,0.326,201488
+Animals,Maroon 5,English,0.642,0.449,0.503,91.64,0.586,0.493,0.115,0.138,246165
+Don't Let Me Down,The Chainsmokers,English,0.435,0.658,0.919,105.09,0.448,0.378,0.086,0.165,204062
+Shape of My Heart,Backstreet Boys,English,0.731,0.802,0.393,149.8,0.253,0.165,0.157,0.17,245772
+Pee Loon,Mohit Chauhan,Hindi,0.538,0.733,0.501,98.55,0.87,0.419,0.041,0.257,268524
+Tera Hone Laga Hoon,Atif Aslam,Hindi,0.761,0.505,0.492,101.83,0.172,0.139,0.093,0.225,249969
+Bolna,Arijit Singh,Hindi,0.606,0.466,0.29,125.23,0.678,0.168,0.11,0.477,211730
+Sun Raha Hai,Ankit Tiwari,Hindi,0.886,0.885,0.82,154.78,0.339,0.395,0.153,0.445,189061
+Laung Da Lashkara,Hard Kaur,Hindi,0.559,0.418,0.908,140.83,0.034,0.247,0.091,0.273,265421
+Moh Moh Ke Dhaage,Monali Thakur,Hindi,0.649,0.688,0.906,133.9,0.395,0.088,0.113,0.425,189592
+Dil Se Re,A. R. Rahman,Hindi,0.714,0.478,0.43,139.15,0.346,0.535,0.039,0.238,271558
+Saudagar Sauda Kar,Laxmikant-Pyarelal,Hindi,0.825,0.55,0.208,135.49,0.042,0.379,0.17,0.216,231616
+Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,0.612,0.849,0.47,136.91,0.013,0.25,0.127,0.192,283513
+O Rangrez,Shreya Ghoshal,Hindi,0.416,0.824,0.235,152.06,0.276,0.401,0.106,0.274,196720
+Halo,Beyoncé,English,0.528,0.738,0.311,128.12,0.654,0.363,0.031,0.069,187386
+Roar,Katy Perry,English,0.63,0.57,0.403,91.75,0.092,0.567,0.16,0.27,253704
+Lovely,Billie Eilish,English,0.448,0.914,0.202,104.7,0.337,0.502,0.097,0.422,292758
+Sunflower,Post Malone,English,0.723,0.4,0.252,109.84,0.394,0.009,0.152,0.33,233833
+Uptown Funk,Bruno Mars,English,0.495,0.712,0.396,98.84,0.705,0.399,0.094,0.35,280809
+Wake Me Up,Avicii,English,0.659,0.878,0.776,110.48,0.711,0.126,0.065,0.154,204481
+See You Again,Wiz Khalifa,English,0.821,0.644,0.224,114.03,0.868,0.138,0.131,0.341,288338
+Animals,Maroon 5,English,0.764,0.726,0.264,129.97,0.264,0.298,0.185,0.071,297289
+Don't Let Me Down,The Chainsmokers,English,0.857,0.49,0.577,80.03,0.179,0.214,0.1,0.262,249846
+Shape of My Heart,Backstreet Boys,English,0.592,0.902,0.39,116.25,0.399,0.241,0.03,0.48,196777
+Pee Loon,Mohit Chauhan,Hindi,0.876,0.533,0.204,126.05,0.444,0.356,0.053,0.302,200128
+Tera Hone Laga Hoon,Atif Aslam,Hindi,0.69,0.942,0.375,152.1,0.067,0.066,0.033,0.308,265881
+Bolna,Arijit Singh,Hindi,0.864,0.497,0.266,89.4,0.848,0.302,0.061,0.459,200310
+Sun Raha Hai,Ankit Tiwari,Hindi,0.699,0.515,0.535,123.25,0.546,0.586,0.172,0.174,289160
+Laung Da Lashkara,Hard Kaur,Hindi,0.552,0.804,0.865,153.68,0.143,0.541,0.153,0.103,240398
+Moh Moh Ke Dhaage,Monali Thakur,Hindi,0.478,0.711,0.421,147.9,0.112,0.316,0.151,0.35,219660
+Dil Se Re,A. R. Rahman,Hindi,0.46,0.874,0.233,87.01,0.551,0.478,0.197,0.058,280630
+Saudagar Sauda Kar,Laxmikant-Pyarelal,Hindi,0.674,0.543,0.591,143.06,0.576,0.127,0.156,0.151,288960
+Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,0.554,0.882,0.665,117.57,0.335,0.52,0.157,0.257,181641
+O Rangrez,Shreya Ghoshal,Hindi,0.816,0.475,0.442,116.48,0.498,0.272,0.043,0.414,268857
+Halo,Beyoncé,English,0.675,0.411,0.302,138.36,0.107,0.53,0.062,0.051,278903
+Roar,Katy Perry,English,0.777,0.662,0.846,106.95,0.295,0.226,0.165,0.205,299625
+Lovely,Billie Eilish,English,0.427,0.785,0.517,156.74,0.199,0.135,0.161,0.459,246492
+Sunflower,Post Malone,English,0.782,0.554,0.592,156.33,0.64,0.429,0.19,0.136,199682
+Uptown Funk,Bruno Mars,English,0.47,0.652,0.523,102.45,0.823,0.316,0.032,0.184,246187
+Wake Me Up,Avicii,English,0.683,0.849,0.362,90.95,0.462,0.085,0.035,0.342,180161
+See You Again,Wiz Khalifa,English,0.891,0.91,0.619,159.83,0.649,0.322,0.076,0.48,257865
+Animals,Maroon 5,English,0.53,0.405,0.332,151.13,0.784,0.546,0.116,0.318,292413
+Don't Let Me Down,The Chainsmokers,English,0.639,0.476,0.919,142.35,0.146,0.181,0.048,0.343,193368
+Shape of My Heart,Backstreet Boys,English,0.455,0.451,0.434,114.26,0.051,0.447,0.084,0.333,298008
+Pee Loon,Mohit Chauhan,Hindi,0.671,0.531,0.418,101.05,0.045,0.594,0.184,0.088,258196
+Tera Hone Laga Hoon,Atif Aslam,Hindi,0.426,0.878,0.424,142.91,0.324,0.149,0.095,0.1,222319
+Bolna,Arijit Singh,Hindi,0.591,0.53,0.802,102.53,0.645,0.009,0.125,0.451,181215
+Sun Raha Hai,Ankit Tiwari,Hindi,0.668,0.617,0.666,129.89,0.215,0.215,0.154,0.388,241203
+Laung Da Lashkara,Hard Kaur,Hindi,0.761,0.814,0.94,118.66,0.746,0.079,0.17,0.348,211438
+Moh Moh Ke Dhaage,Monali Thakur,Hindi,0.777,0.677,0.527,81.4,0.392,0.385,0.156,0.357,227446
+Dil Se Re,A. R. Rahman,Hindi,0.455,0.864,0.401,126.74,0.092,0.284,0.107,0.395,225124
+Saudagar Sauda Kar,Laxmikant-Pyarelal,Hindi,0.635,0.486,0.874,95.57,0.816,0.02,0.123,0.382,181536
+Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,0.625,0.52,0.56,155.28,0.227,0.418,0.167,0.235,244222
+O Rangrez,Shreya Ghoshal,Hindi,0.866,0.479,0.515,139.35,0.502,0.314,0.144,0.428,183114
+Halo,Beyoncé,English,0.787,0.848,0.328,128.2,0.045,0.041,0.131,0.358,203659
+Roar,Katy Perry,English,0.837,0.706,0.211,139.72,0.835,0.567,0.117,0.158,187499
+Lovely,Billie Eilish,English,0.852,0.826,0.527,130.77,0.051,0.047,0.076,0.195,231883
+Sunflower,Post Malone,English,0.674,0.898,0.523,158.94,0.295,0.105,0.059,0.374,243088
+Uptown Funk,Bruno Mars,English,0.738,0.915,0.559,125.6,0.677,0.542,0.099,0.098,227599
+Wake Me Up,Avicii,English,0.434,0.489,0.369,86.93,0.385,0.199,0.151,0.497,256803
+See You Again,Wiz Khalifa,English,0.677,0.422,0.587,114.93,0.2,0.095,0.08,0.216,238157
+Animals,Maroon 5,English,0.641,0.736,0.902,98.35,0.262,0.254,0.087,0.291,245064
+Don't Let Me Down,The Chainsmokers,English,0.831,0.882,0.499,111.32,0.493,0.076,0.147,0.072,283343
+Shape of My Heart,Backstreet Boys,English,0.49,0.835,0.357,109.07,0.314,0.147,0.161,0.065,198269
+Pee Loon,Mohit Chauhan,Hindi,0.663,0.938,0.584,113.76,0.38,0.081,0.111,0.383,261344
+Tera Hone Laga Hoon,Atif Aslam,Hindi,0.812,0.611,0.485,85.76,0.349,0.233,0.084,0.491,283363
+Bolna,Arijit Singh,Hindi,0.73,0.497,0.827,119.43,0.598,0.366,0.099,0.141,219557
+Sun Raha Hai,Ankit Tiwari,Hindi,0.486,0.92,0.842,133.56,0.487,0.491,0.058,0.136,207754
+Laung Da Lashkara,Hard Kaur,Hindi,0.878,0.583,0.749,103.72,0.493,0.452,0.05,0.43,289300
+Moh Moh Ke Dhaage,Monali Thakur,Hindi,0.424,0.569,0.663,135.57,0.047,0.534,0.103,0.251,213971
+Dil Se Re,A. R. Rahman,Hindi,0.619,0.758,0.666,90.13,0.5,0.19,0.145,0.209,241809
+Saudagar Sauda Kar,Laxmikant-Pyarelal,Hindi,0.809,0.45,0.714,146.08,0.38,0.085,0.132,0.19,227562
+Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,0.767,0.852,0.748,136.44,0.604,0.576,0.192,0.419,294092
+O Rangrez,Shreya Ghoshal,Hindi,0.834,0.655,0.805,138.68,0.622,0.503,0.131,0.49,255246
+Halo,Beyoncé,English,0.491,0.804,0.932,103.03,0.615,0.104,0.037,0.494,257787
+Roar,Katy Perry,English,0.766,0.884,0.356,131.46,0.382,0.423,0.039,0.085,222770
+Lovely,Billie Eilish,English,0.842,0.864,0.368,125.65,0.139,0.33,0.151,0.407,255492
+Sunflower,Post Malone,English,0.757,0.407,0.911,107.16,0.441,0.119,0.119,0.278,207502
+Uptown Funk,Bruno Mars,English,0.812,0.51,0.442,100.0,0.474,0.365,0.196,0.328,225802
+Wake Me Up,Avicii,English,0.596,0.755,0.742,100.16,0.58,0.521,0.085,0.412,283855
+See You Again,Wiz Khalifa,English,0.749,0.723,0.664,86.48,0.119,0.519,0.102,0.109,284664
+Animals,Maroon 5,English,0.4,0.533,0.293,149.44,0.276,0.31,0.183,0.143,296083
+Don't Let Me Down,The Chainsmokers,English,0.883,0.848,0.858,150.65,0.156,0.484,0.036,0.132,195246
+Shape of My Heart,Backstreet Boys,English,0.618,0.5,0.757,87.17,0.824,0.558,0.113,0.334,205399
+Pee Loon,Mohit Chauhan,Hindi,0.853,0.925,0.334,157.56,0.075,0.308,0.152,0.406,249530
+Tera Hone Laga Hoon,Atif Aslam,Hindi,0.832,0.426,0.783,102.1,0.538,0.271,0.12,0.238,280419
+Bolna,Arijit Singh,Hindi,0.613,0.74,0.478,118.11,0.369,0.258,0.175,0.057,247891
+Sun Raha Hai,Ankit Tiwari,Hindi,0.638,0.572,0.653,149.09,0.206,0.343,0.177,0.436,185144
+Laung Da Lashkara,Hard Kaur,Hindi,0.721,0.688,0.435,125.76,0.515,0.341,0.167,0.38,218427
+Moh Moh Ke Dhaage,Monali Thakur,Hindi,0.836,0.649,0.522,111.98,0.854,0.47,0.064,0.128,298195
+Dil Se Re,A. R. Rahman,Hindi,0.541,0.532,0.213,151.89,0.203,0.122,0.191,0.225,199697
+Saudagar Sauda Kar,Laxmikant-Pyarelal,Hindi,0.492,0.606,0.567,128.85,0.668,0.499,0.117,0.244,253996
+Tujhe Kitna Chahne Lage,Arijit Singh,Hindi,0.801,0.897,0.61,140.48,0.203,0.372,0.051,0.494,267352
+O Rangrez,Shreya Ghoshal,Hindi,0.756,0.74,0.233,117.19,0.885,0.38,0.151,0.372,258726
+Halo,Beyoncé,English,0.699,0.708,0.259,139.58,0.665,0.552,0.069,0.214,185558
+Roar,Katy Perry,English,0.49,0.765,0.303,108.93,0.861,0.206,0.2,0.367,218023
+Lovely,Billie Eilish,English,0.475,0.755,0.631,105.01,0.042,0.497,0.164,0.495,208907
+Sunflower,Post Malone,English,0.676,0.622,0.285,140.7,0.051,0.278,0.073,0.244,287958
+Uptown Funk,Bruno Mars,English,0.454,0.766,0.916,92.18,0.646,0.089,0.065,0.075,192740
+Wake Me Up,Avicii,English,0.501,0.687,0.699,145.8,0.161,0.112,0.113,0.2,236628
+See You Again,Wiz Khalifa,English,0.569,0.668,0.444,135.16,0.767,0.463,0.177,0.171,294485
+Animals,Maroon 5,English,0.479,0.416,0.651,158.35,0.679,0.466,0.19,0.079,225808
+Don't Let Me Down,The Chainsmokers,English,0.604,0.75,0.245,156.7,0.499,0.19,0.113,0.075,261929
+Shape of My Heart,Backstreet Boys,English,0.735,0.927,0.667,143.56,0.412,0.313,0.089,0.117,201817
