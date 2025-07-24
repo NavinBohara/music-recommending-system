@@ -5,13 +5,10 @@ import joblib
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
-# ===== Spotify Setup =====
-client_id = "48c27ca09dd848028b2014b25e883bb9"  # Replace with your actual Spotify client ID
-client_secret = "42add4e9460d43c883a7da850130cb41"  # Replace with your actual Spotify client secret
-
+# ===== Spotify Setup from secrets.toml =====
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
-    client_id=client_id,
-    client_secret=client_secret
+    client_id=st.secrets["SPOTIPY_CLIENT_ID"],
+    client_secret=st.secrets["SPOTIPY_CLIENT_SECRET"]
 ))
 
 @st.cache_data
@@ -24,10 +21,10 @@ def fetch_album_image(song_name, artist_name):
         return None
 
 # ===== Load Data and Models =====
-df = pd.read_csv("hybrid_knn_dataset.csv")
+df = pd.read_csv("hybrid_knn_dataset.csv")  # Make sure this file exists in your GitHub repo
 scaler = joblib.load("scaler.joblib")
 
-# Features used in the model
+# Features used for similarity
 features = [
     "danceability", "energy", "valence", "tempo",
     "acousticness", "instrumentalness", "speechiness", "liveness"
@@ -37,45 +34,47 @@ features = [
 st.set_page_config(page_title="Music Recommender", layout="wide")
 st.title("🎶 GeetYatra – Your Personalized Music Journey")
 
-st.write("Select a song and get similar recommendations with album art!")
+st.markdown("Select a song and get similar music recommendations with album covers. Powered by KNN + Spotify.")
 
+# ==== Song Selection ====
 song_list = df['track'].unique()
 selected_song = st.selectbox("🔍 Select a song", sorted(song_list))
 
-if st.button("Recommend Similar Songs"):
-    input_song = df[df['track'] == selected_song].iloc[0]
-    input_cluster = input_song['cluster']
+if st.button("🎵 Recommend Similar Songs"):
+    try:
+        input_song = df[df['track'] == selected_song].iloc[0]
+        input_cluster = input_song['cluster']
 
-    # Load KNN model for that cluster
-    knn_model = joblib.load(f"models/knn_cluster_{int(input_cluster)}.joblib")
-    cluster_df = df[df['cluster'] == input_cluster].reset_index(drop=True)
+        # Load KNN model for that cluster
+        knn_model = joblib.load(f"models/knn_cluster_{int(input_cluster)}.joblib")
+        cluster_df = df[df['cluster'] == input_cluster].reset_index(drop=True)
 
-    # Get features for the entire cluster
-    scaled_features = scaler.transform(cluster_df[features])
+        # Scale features
+        scaled_features = scaler.transform(cluster_df[features])
+        index_in_cluster = cluster_df[cluster_df['track'] == selected_song].index[0]
 
-    # Get index of selected song within the cluster
-    index_in_cluster = cluster_df[cluster_df['track'] == selected_song].index[0]
+        # Get recommendations using KNN
+        distances, indices = knn_model.kneighbors([scaled_features[index_in_cluster]])
 
-    # Find similar songs using KNN
-    distances, indices = knn_model.kneighbors([scaled_features[index_in_cluster]])
+        st.subheader("🎧 Recommended Songs:")
 
-    st.subheader("🎧 Recommended Songs (Side by Side):")
+        # Show in Streamlit columns (side-by-side)
+        cols = st.columns(len(indices[0][1:]))
 
-    # Create Streamlit columns for side-by-side layout
-    cols = st.columns(len(indices[0][1:]))
+        for i, idx in enumerate(indices[0][1:]):  # skip first (itself)
+            result = cluster_df.iloc[idx]
+            track = result['track']
+            artist = result['artist']
+            language = result['language']
+            image_url = fetch_album_image(track, artist)
 
-    for i, idx in enumerate(indices[0][1:]):  # Skip the first (input song itself)
-        result = cluster_df.iloc[idx]
-        track = result['track']
-        artist = result['artist']
-        language = result['language']
+            with cols[i]:
+                if image_url:
+                    st.image(image_url, width=140)
+                else:
+                    st.write("🎵 No Image Available")
 
-        image_url = fetch_album_image(track, artist)
+                st.markdown(f"**{track}**  \n*{artist}*  \n🌐 {language}")
 
-        with cols[i]:
-            if image_url:
-                st.image(image_url, width=140)
-            else:
-                st.write("🎵 No Image")
-
-            st.markdown(f"**{track}**  \n*{artist}*  \n🌐 {language}")
+    except Exception as e:
+        st.error(f"Something went wrong: {e}")
